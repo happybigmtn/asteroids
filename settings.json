@@ -1,0 +1,7 @@
+{
+    "python.linting.flake8Args": [
+        "--ignore=E2,E3,W2"
+    ],
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+} 

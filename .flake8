@@ -1,0 +1,6 @@
+[flake8]
+# E2 and W2 are whitespace related
+# E3 is blank lines
+# F841 is the unused variable warning
+ignore = E2,E3,W2,F841
+max-line-length = 100 
